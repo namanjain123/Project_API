@@ -1,0 +1,172 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\NamanJain\\OneDrive - Celebal Technologies Private Limited\\Work_File_Share\\AutomateAttendance\\Order_management_API\\Buisness Layer\\Buisness Layer.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\NamanJain\\OneDrive - Celebal Technologies Private Limited\\Work_File_Share\\AutomateAttendance\\Order_management_API\\Buisness Layer\\Buisness Layer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\NamanJain\\OneDrive - Celebal Technologies Private Limited\\Work_File_Share\\AutomateAttendance\\Order_management_API\\Buisness Layer\\Buisness Layer.csproj",
+        "projectName": "Buisness Layer",
+        "projectPath": "C:\\Users\\NamanJain\\OneDrive - Celebal Technologies Private Limited\\Work_File_Share\\AutomateAttendance\\Order_management_API\\Buisness Layer\\Buisness Layer.csproj",
+        "packagesPath": "C:\\Users\\NamanJain\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\NamanJain\\OneDrive - Celebal Technologies Private Limited\\Work_File_Share\\AutomateAttendance\\Order_management_API\\Buisness Layer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\NamanJain\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\NamanJain\\OneDrive - Celebal Technologies Private Limited\\Work_File_Share\\AutomateAttendance\\Order_management_API\\Database Layer\\Database_Layer.csproj": {
+                "projectPath": "C:\\Users\\NamanJain\\OneDrive - Celebal Technologies Private Limited\\Work_File_Share\\AutomateAttendance\\Order_management_API\\Database Layer\\Database_Layer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.18, 6.0.18]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.18, 6.0.18]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.18, 6.0.18]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\NamanJain\\OneDrive - Celebal Technologies Private Limited\\Work_File_Share\\AutomateAttendance\\Order_management_API\\Database Layer\\Database_Layer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\NamanJain\\OneDrive - Celebal Technologies Private Limited\\Work_File_Share\\AutomateAttendance\\Order_management_API\\Database Layer\\Database_Layer.csproj",
+        "projectName": "Database_Layer",
+        "projectPath": "C:\\Users\\NamanJain\\OneDrive - Celebal Technologies Private Limited\\Work_File_Share\\AutomateAttendance\\Order_management_API\\Database Layer\\Database_Layer.csproj",
+        "packagesPath": "C:\\Users\\NamanJain\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\NamanJain\\OneDrive - Celebal Technologies Private Limited\\Work_File_Share\\AutomateAttendance\\Order_management_API\\Database Layer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\NamanJain\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "ServiceStack.Text": {
+              "target": "Package",
+              "version": "[6.9.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.18, 6.0.18]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.18, 6.0.18]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.18, 6.0.18]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

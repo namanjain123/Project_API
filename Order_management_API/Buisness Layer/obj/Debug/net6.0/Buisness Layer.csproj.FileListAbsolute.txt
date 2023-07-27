@@ -1,0 +1,15 @@
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\Work_File_Share\AutomateAttendance\Order_management_API\Buisness Layer\bin\Debug\net6.0\Buisness Layer.deps.json
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\Work_File_Share\AutomateAttendance\Order_management_API\Buisness Layer\bin\Debug\net6.0\Buisness Layer.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\Work_File_Share\AutomateAttendance\Order_management_API\Buisness Layer\bin\Debug\net6.0\Buisness Layer.pdb
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\Work_File_Share\AutomateAttendance\Order_management_API\Buisness Layer\bin\Debug\net6.0\Database Layer.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\Work_File_Share\AutomateAttendance\Order_management_API\Buisness Layer\bin\Debug\net6.0\Database Layer.pdb
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\Work_File_Share\AutomateAttendance\Order_management_API\Buisness Layer\obj\Debug\net6.0\Buisness Layer.csproj.AssemblyReference.cache
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\Work_File_Share\AutomateAttendance\Order_management_API\Buisness Layer\obj\Debug\net6.0\Buisness Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\Work_File_Share\AutomateAttendance\Order_management_API\Buisness Layer\obj\Debug\net6.0\Buisness Layer.AssemblyInfoInputs.cache
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\Work_File_Share\AutomateAttendance\Order_management_API\Buisness Layer\obj\Debug\net6.0\Buisness Layer.AssemblyInfo.cs
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\Work_File_Share\AutomateAttendance\Order_management_API\Buisness Layer\obj\Debug\net6.0\Buisness Layer.csproj.CoreCompileInputs.cache
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\Work_File_Share\AutomateAttendance\Order_management_API\Buisness Layer\obj\Debug\net6.0\Buisness Layer.csproj.CopyComplete
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\Work_File_Share\AutomateAttendance\Order_management_API\Buisness Layer\obj\Debug\net6.0\Buisness Layer.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\Work_File_Share\AutomateAttendance\Order_management_API\Buisness Layer\obj\Debug\net6.0\refint\Buisness Layer.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\Work_File_Share\AutomateAttendance\Order_management_API\Buisness Layer\obj\Debug\net6.0\Buisness Layer.pdb
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\Work_File_Share\AutomateAttendance\Order_management_API\Buisness Layer\obj\Debug\net6.0\ref\Buisness Layer.dll

@@ -1,0 +1,24 @@
+version: '3.2'
+services:
+  mssql:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    environment:
+      - ACCEPT_EULA=Y
+      - MSSQL_SA_PASSWORD=CEleb@L_TECH
+      #- TZ=Europe/Berlin
+    ports:
+      - 1433:1433
+    volumes:
+      - "./Database Layer/data/:/var/opt/mssql/data/"
+      - "./Database Layer/log/:/var/opt/mssql/log/"
+      - "./Database Layer/secrets/:/var/opt/mssql/secrets/"
+      #- ./init.sql:/docker-entrypoint-initdb.d/init.sql
+  redis:
+    image: redis:latest
+    volumes:
+      - ./Cache:/data
+    ports:
+      - "6379:6379"
+    
+#TO RUN ONLY THE SqlServer USE THE FOLLOWING COMMAND
+# docker run -d --name mssql  -e ACCEPT_EULA=Y -e MSSQL_SA_PASSWORD=CEleb@L_TECH -p 1433:1433 -v "$(pwd)/DatabaseLayer/data/:/var/opt/mssql/data/" -v "$(pwd)/DatabaseLayer/log/:/var/opt/mssql/log/" -v "$(pwd)/DatabaseLayer/secrets/:/var/opt/mssql/secrets/" mcr.microsoft.com/mssql/server:2022-latest

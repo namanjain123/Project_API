@@ -1,0 +1,14 @@
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\Work_File_Share\AutomateAttendance\Order_management_API\Database Layer\bin\Debug\net6.0\Database_Layer.deps.json
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\Work_File_Share\AutomateAttendance\Order_management_API\Database Layer\bin\Debug\net6.0\Database_Layer.runtimeconfig.json
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\Work_File_Share\AutomateAttendance\Order_management_API\Database Layer\bin\Debug\net6.0\Database_Layer.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\Work_File_Share\AutomateAttendance\Order_management_API\Database Layer\bin\Debug\net6.0\Database_Layer.pdb
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\Work_File_Share\AutomateAttendance\Order_management_API\Database Layer\obj\Debug\net6.0\Database_Layer.csproj.AssemblyReference.cache
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\Work_File_Share\AutomateAttendance\Order_management_API\Database Layer\obj\Debug\net6.0\Database_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\Work_File_Share\AutomateAttendance\Order_management_API\Database Layer\obj\Debug\net6.0\Database_Layer.AssemblyInfoInputs.cache
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\Work_File_Share\AutomateAttendance\Order_management_API\Database Layer\obj\Debug\net6.0\Database_Layer.AssemblyInfo.cs
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\Work_File_Share\AutomateAttendance\Order_management_API\Database Layer\obj\Debug\net6.0\Database_Layer.csproj.CoreCompileInputs.cache
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\Work_File_Share\AutomateAttendance\Order_management_API\Database Layer\obj\Debug\net6.0\Database_Layer.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\Work_File_Share\AutomateAttendance\Order_management_API\Database Layer\obj\Debug\net6.0\refint\Database_Layer.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\Work_File_Share\AutomateAttendance\Order_management_API\Database Layer\obj\Debug\net6.0\Database_Layer.pdb
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\Work_File_Share\AutomateAttendance\Order_management_API\Database Layer\obj\Debug\net6.0\Database_Layer.genruntimeconfig.cache
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\Work_File_Share\AutomateAttendance\Order_management_API\Database Layer\obj\Debug\net6.0\ref\Database_Layer.dll
